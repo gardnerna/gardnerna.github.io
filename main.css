@@ -23,7 +23,7 @@ a, a:link, a:active, a:visited, a:hover {
 
 #resources ul {
 	list-style-type: disk;
-	margin: 25px 0 0 50px;
+	margin: 0 0 0 50px;
 	}
 	
 #resources ul li {
@@ -31,7 +31,6 @@ a, a:link, a:active, a:visited, a:hover {
 	font-weight: 400;
 	line-height: 1.7;
 	list-style-type: disk;
-	margin: 10px 0 0 0;
 	}
 	
 #aboutus ul {
