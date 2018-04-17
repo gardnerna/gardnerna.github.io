@@ -21,6 +21,16 @@ a, a:link, a:active, a:visited, a:hover {
 	outline: none;
 	}
 
+#resources ul {
+	list-style-type: none;
+	margin: 25px 0 0 50px;
+	}
+	
+#resources li {
+	list-style-type: none;
+	margin: 10px 0 0 0;
+	}
+	
 #aboutus ul {
 	list-style-type: none;
 	margin: 25px 0 0 50px;
