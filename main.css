@@ -22,12 +22,16 @@ a, a:link, a:active, a:visited, a:hover {
 	}
 
 #resources ul {
-	list-style-type: none;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 1.7;
+	color: black;
+	list-style-type: disk;
 	margin: 25px 0 0 50px;
 	}
 	
 #resources li {
-	list-style-type: none;
+	list-style-type: disk;
 	margin: 10px 0 0 0;
 	}
 	
